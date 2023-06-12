@@ -1,0 +1,5 @@
+CREATE TABLE nama_mobile (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nama VARCHAR(255) NOT NULL,
+    mobile VARCHAR(255) NOT NULL
+);
